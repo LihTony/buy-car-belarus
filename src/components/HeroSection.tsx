@@ -40,11 +40,11 @@ const HeroSection = () => {
 
           <div className="flex flex-col sm:flex-row gap-4">
             <a
-              href="tel:+375291234567"
+              href="#lead-form"
               className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-xl bg-gradient-primary text-primary-foreground font-bold text-lg shadow-glow animate-pulse-glow transition-transform hover:scale-105"
             >
               <Phone className="w-5 h-5" />
-              +375 (29) 123-45-67
+              Получить оценку
             </a>
             <a
               href="#how-it-works"
