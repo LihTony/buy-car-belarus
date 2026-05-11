@@ -25,7 +25,7 @@ const advantages = [
 
 const AdvantagesSection = () => {
   return (
-    <section className="py-24 relative">
+    <section id="advantages" className="py-24 relative">
       <div className="container">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-5xl font-extrabold mb-4">

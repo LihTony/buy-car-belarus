@@ -34,7 +34,7 @@ const faqs = [
 
 const FAQSection = () => {
   return (
-    <section className="py-24">
+    <section id="faq" className="py-24">
       <div className="container max-w-3xl">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-5xl font-extrabold mb-4">
